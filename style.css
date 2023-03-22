@@ -1,0 +1,27 @@
+.buy-now-button{
+    background-color: blueviolet;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    text-decoration:underline;
+    
+}
+h6{
+    text-align: center;
+}
+.box{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+}
+.box1{
+   height: 50%;
+   width: 95%;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+}
